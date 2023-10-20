@@ -1,0 +1,41 @@
+.table {
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  border-radius: 5px;
+  font-size: 16px;
+  table-layout: fixed;
+
+  border-collapse: collapse;
+  overflow: hidden;
+}
+.tHead {
+  height: 30px;
+  background-color: #00bcd5;
+  color: #fff;
+}
+tbody tr:nth-child(odd) {
+  background-color: #fff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #ecf1f4;
+}
+th,
+td {
+  padding: 20px;
+}
+th {
+  letter-spacing: 2px;
+}
+
+td {
+  letter-spacing: 1px;
+}
+tbody {
+  color: #7b7d7e;
+}
+.type {
+  text-transform: capitalize;
+}
