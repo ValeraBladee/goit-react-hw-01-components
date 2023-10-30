@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ValeraBladee/goit-react-hw-01-components.git/static/css/main.bc2eb096.css",
-    "main.js": "/ValeraBladee/goit-react-hw-01-components.git/static/js/main.7ff67127.js",
+    "main.js": "/ValeraBladee/goit-react-hw-01-components.git/static/js/main.6e23bcd9.js",
     "index.html": "/ValeraBladee/goit-react-hw-01-components.git/index.html",
     "main.bc2eb096.css.map": "/ValeraBladee/goit-react-hw-01-components.git/static/css/main.bc2eb096.css.map",
-    "main.7ff67127.js.map": "/ValeraBladee/goit-react-hw-01-components.git/static/js/main.7ff67127.js.map"
+    "main.6e23bcd9.js.map": "/ValeraBladee/goit-react-hw-01-components.git/static/js/main.6e23bcd9.js.map"
   },
   "entrypoints": [
     "static/css/main.bc2eb096.css",
-    "static/js/main.7ff67127.js"
+    "static/js/main.6e23bcd9.js"
   ]
 }
