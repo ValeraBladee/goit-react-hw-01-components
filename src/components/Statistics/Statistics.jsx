@@ -2,7 +2,7 @@ import css from './Statistics.module.css';
 import { getRandomHexColor } from 'components/random-hex';
 export const Statistics = ({ title, stats }) => (
   <section className={css.statistics}>
-    {title ? <h2 className={css.title}>{title}</h2> : null}
+    {title && <h2 className={css.title}>{title}</h2>}
 
     <ul className={css.statList}>
       {stats.map(item => (
